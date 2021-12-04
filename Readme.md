@@ -1,8 +1,9 @@
 # Learn Fastify
 Repo to work through https://www.fastify.io/ Quick Start and other tutorials
 
-## Run in terminal
+## Getting started in terminal
 ```
+npm ci
 node server
 ```
 
